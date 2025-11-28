@@ -4,7 +4,7 @@ body{
     min-height: 100%;
     display: flex;
     justify-content: center;
-    background-image:url(/imagens/background_tayta.jpeg);
+    background-image:url(../imagens/background_tayta.jpeg);
     background-size:cover;    
 }
 
