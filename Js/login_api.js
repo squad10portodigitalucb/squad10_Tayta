@@ -77,7 +77,7 @@ class LoginAuth {
             }
             
             // Redireciona para a página principal
-            window.location.href = '/index.html';
+            window.location.href = '/LexDocs/index.html';
         } else {
             // Tratamento de erro (ex: 401 Não Autorizado)
             if (response.status === 401 || response.status === 403) {
